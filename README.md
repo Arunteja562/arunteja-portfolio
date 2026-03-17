@@ -11,7 +11,7 @@ https://arunteja-portfolio-website.netlify.app/
 
 ## About
 
-The site presents an overview of the owner (Arun Teja), a profile picture, and sections for projects, skills, and contact details. It's designed to be minimal and responsive.
+The site presents an overview of the owner (Arunteja), a profile picture, and sections for projects, skills, and contact details. It's designed to be minimal and responsive.
 
 ## Tools & Technologies
 
