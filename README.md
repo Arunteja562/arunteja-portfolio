@@ -5,6 +5,7 @@ This repository contains a simple personal portfolio website that showcases proj
 ## Demo 
 live demo will shown by this link
 https://arunteja-portfolio.netlify.app/
+https://arunteja-portfolio-website.netlify.app/
 
 ## About
 
