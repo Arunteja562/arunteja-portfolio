@@ -7,7 +7,7 @@ live demo will shown by this link
 https://arunteja-portfolio.netlify.app/
 
 
-https://arunteja-portfolio-website.netlify.app/
+https://arunteja-portfolio.netlify.app/
 
 ## About
 
