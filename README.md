@@ -21,6 +21,17 @@ The site presents an overview of the owner (Arunteja), a profile picture, and se
 - DP.jpg — profile image used on the site
 - Any modern web browser to view the site
 
+&emsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<br>
+&emsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+&emsp; ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Libraries/Frameworks:
+
+&emsp; ![EmailJS](https://img.shields.io/badge/email.js-%23563D7C.svg?style=for-the-badge&logo=gmail&logoColor=white)
+
+
 This is intentionally dependency-free (no build step, no npm required).
 
 ## Project Structure
